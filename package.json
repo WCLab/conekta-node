@@ -1,6 +1,6 @@
 {
   "name": "conekta-promise",
-  "version": "3.1.5",
+  "version": "3.2.0",
   "description": "Conekta node Wrapper with Promises",
   "keywords": [
     "conekta",
@@ -14,14 +14,14 @@
   ],
   "homepage": "https://www.conekta.io",
   "bugs": {
-    "url": "https://github.com/Phaze1D/conekta-node/issues",
+    "url": "https://github.com/crashingalexsan/conekta-node/issues",
     "email": "soporte@conekta.io"
   },
   "license": "MIT",
   "author": "Phaze1D",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Phaze1D/conekta-node.git"
+    "url": "https://github.com/crashingalexsan/conekta-node.git"
   },
   "dependencies": {
     "request": "2.55.0",
