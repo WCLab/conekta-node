@@ -14,7 +14,7 @@ npm i conekta-promises -S
 ## Usage with Promises
 
 ```node
-var conekta = require('conekta');
+var conekta = require('conekta-promises');
 
 conekta.api_key = '9YxqfRnx4sMQDnRsqdYn';
 conekta.locale = 'es';
